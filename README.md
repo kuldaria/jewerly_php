@@ -1,5 +1,6 @@
 # jewerly_php
 Jewelry Workshop Website — php version
+
 An educational web development project for a fictional jewelry brand, built using PHP, HTML, CSS, JavaScript and MySQL.
 The project extends the front-end website with server-side functionality and database interactions. The jewelry brand and business concept are fictional and do not represent a real company.
 
